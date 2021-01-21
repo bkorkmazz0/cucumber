@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="78.217215">
+    <testcase classname="Register Test" name="ilk senaryo" time="22.530563">
+        <system-out><![CDATA[Given Navigate to Website...................................................passed
+And click Sign in button....................................................passed
+And type email "berkankorkmazz0@gmail.com"..................................passed
+And click on Create an Account button.......................................passed
+And type firstname "berkan" and lastname "korkmaz"..........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Register Test" name="ikinci senaryo" time="17.280403">
+        <system-out><![CDATA[Given Navigate to Website...................................................passed
+And click Sign in button....................................................passed
+And type email "berkankorkmazz0@gmail.com"..................................passed
+And click on Create an Account button.......................................passed
+And type Company "DELL".....................................................passed
+And type address "Pendik"...................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Register Test" name="_2" time="18.558963">
+        <system-out><![CDATA[Given Navigate to Website...................................................passed
+And click Sign in button....................................................passed
+And type email "berkankorkmazz0@gmail.com"..................................passed
+And click on Create an Account button.......................................passed
+And type firstname "ahmet" and lastname "sungur"............................passed
+And type password "ahmet123"................................................passed
+And type Company "DELL".....................................................passed
+And type address "USA"......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Register Test" name="_3" time="19.847286">
+        <system-out><![CDATA[Given Navigate to Website...................................................passed
+And click Sign in button....................................................passed
+And type email "berkankorkmazz0@gmail.com"..................................passed
+And click on Create an Account button.......................................passed
+And type firstname "ayse" and lastname "sungur".............................passed
+And type password "ayse123".................................................passed
+And type Company "DELL".....................................................passed
+And type address "USA"......................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

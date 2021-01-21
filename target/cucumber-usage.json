@@ -1,0 +1,258 @@
+[
+  {
+    "source": "^Navigate to Website$",
+    "steps": [
+      {
+        "name": "Navigate to Website",
+        "aggregatedDurations": {
+          "average": 10.978154225,
+          "median": 10.7344237
+        },
+        "durations": [
+          {
+            "duration": 12.578269,
+            "location": "backgroundUse.feature:5"
+          },
+          {
+            "duration": 9.8655005,
+            "location": "backgroundUse.feature:5"
+          },
+          {
+            "duration": 10.2734534,
+            "location": "backgroundUse.feature:5"
+          },
+          {
+            "duration": 11.195394,
+            "location": "backgroundUse.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^type firstname \"([^\"]*)\" and lastname \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "type firstname \"berkan\" and lastname \"korkmaz\"",
+        "aggregatedDurations": {
+          "average": 3.0277179,
+          "median": 3.0277179
+        },
+        "durations": [
+          {
+            "duration": 3.0277179,
+            "location": "backgroundUse.feature:11"
+          }
+        ]
+      },
+      {
+        "name": "type firstname \"ahmet\" and lastname \"sungur\"",
+        "aggregatedDurations": {
+          "average": 1.6855583,
+          "median": 1.6855583
+        },
+        "durations": [
+          {
+            "duration": 1.6855583,
+            "location": "backgroundUse.feature:18"
+          }
+        ]
+      },
+      {
+        "name": "type firstname \"ayse\" and lastname \"sungur\"",
+        "aggregatedDurations": {
+          "average": 1.7857341,
+          "median": 1.7857341
+        },
+        "durations": [
+          {
+            "duration": 1.7857341,
+            "location": "backgroundUse.feature:18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^type email \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "type email \"berkankorkmazz0@gmail.com\"",
+        "aggregatedDurations": {
+          "average": 0.670646125,
+          "median": 0.6715913
+        },
+        "durations": [
+          {
+            "duration": 0.2975616,
+            "location": "backgroundUse.feature:7"
+          },
+          {
+            "duration": 0.2625481,
+            "location": "backgroundUse.feature:7"
+          },
+          {
+            "duration": 1.045621,
+            "location": "backgroundUse.feature:7"
+          },
+          {
+            "duration": 1.0768538,
+            "location": "backgroundUse.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^type Company \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "type Company \"DELL\"",
+        "aggregatedDurations": {
+          "average": 0.681542633,
+          "median": 0.2323227
+        },
+        "durations": [
+          {
+            "duration": 1.5914219,
+            "location": "backgroundUse.feature:14"
+          },
+          {
+            "duration": 0.2208833,
+            "location": "backgroundUse.feature:20"
+          },
+          {
+            "duration": 0.2323227,
+            "location": "backgroundUse.feature:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^click on Create an Account button$",
+    "steps": [
+      {
+        "name": "click on Create an Account button",
+        "aggregatedDurations": {
+          "average": 0.229287875,
+          "median": 0.2126261
+        },
+        "durations": [
+          {
+            "duration": 0.1888782,
+            "location": "backgroundUse.feature:8"
+          },
+          {
+            "duration": 0.3030211,
+            "location": "backgroundUse.feature:8"
+          },
+          {
+            "duration": 0.2347378,
+            "location": "backgroundUse.feature:8"
+          },
+          {
+            "duration": 0.1905144,
+            "location": "backgroundUse.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^type address \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "type address \"Pendik\"",
+        "aggregatedDurations": {
+          "average": 0.2745962,
+          "median": 0.2745962
+        },
+        "durations": [
+          {
+            "duration": 0.2745962,
+            "location": "backgroundUse.feature:15"
+          }
+        ]
+      },
+      {
+        "name": "type address \"USA\"",
+        "aggregatedDurations": {
+          "average": 0.2716696,
+          "median": 0.2716696
+        },
+        "durations": [
+          {
+            "duration": 0.2494361,
+            "location": "backgroundUse.feature:21"
+          },
+          {
+            "duration": 0.2939031,
+            "location": "backgroundUse.feature:21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^click Sign in button$",
+    "steps": [
+      {
+        "name": "click Sign in button",
+        "aggregatedDurations": {
+          "average": 2.38432935,
+          "median": 2.1178811
+        },
+        "durations": [
+          {
+            "duration": 3.6670174,
+            "location": "backgroundUse.feature:6"
+          },
+          {
+            "duration": 2.3097194,
+            "location": "backgroundUse.feature:6"
+          },
+          {
+            "duration": 1.6345378,
+            "location": "backgroundUse.feature:6"
+          },
+          {
+            "duration": 1.9260428,
+            "location": "backgroundUse.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^type password \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "type password \"ahmet123\"",
+        "aggregatedDurations": {
+          "average": 0.3716873,
+          "median": 0.3716873
+        },
+        "durations": [
+          {
+            "duration": 0.3716873,
+            "location": "backgroundUse.feature:19"
+          }
+        ]
+      },
+      {
+        "name": "type password \"ayse123\"",
+        "aggregatedDurations": {
+          "average": 0.4520717,
+          "median": 0.4520717
+        },
+        "durations": [
+          {
+            "duration": 0.4520717,
+            "location": "backgroundUse.feature:19"
+          }
+        ]
+      }
+    ]
+  }
+]
